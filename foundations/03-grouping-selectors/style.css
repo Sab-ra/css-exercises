@@ -1,0 +1,13 @@
+.fucking_button, .another_fucking_button {
+  font-size: 28px;
+  font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+.fucking_button {
+  background-color: hsl(0, 100%, 1%);
+  color: hsl(0, 0%, 100%);
+}
+
+.another_fucking_button {
+  background-color: hsl(60, 80%, 50%);
+}
